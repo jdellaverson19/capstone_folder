@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/ad82ec238e264616b9b4c8550ae97b30/artifacts
+end_time: 1716446929911
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: ad82ec238e264616b9b4c8550ae97b30
+run_name: nimble-elk-117
+run_uuid: ad82ec238e264616b9b4c8550ae97b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716446891866
+status: 3
+tags: []
+user_id: root

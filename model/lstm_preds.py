@@ -1,92 +1,70 @@
 import pandas as pd
 import numpy as np
 import os
-import sys
 import joblib
-
-os.environ["KERAS_BACKEND"] = "tensorflow"
 import keras
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
-
-# For reading stock data from yahoo
 from pandas_datareader.data import DataReader
 import yfinance as yf
 from pandas_datareader import data as pdr
+from datetime import datetime, timedelta
 
 yf.pdr_override()
 
-# For time stamps
-from datetime import datetime, timedelta
 
-# argList = []
-# for arg in sys.argv[1:]:
-#    argList.append(arg)
+def getPrediction(predictStock, predictDate=None):
+    # Directory path for model and scaler
+    model_path = (
+        f"/mnt/c/Users/Hunter/Documents/project_folder/app/models/{predictStock}.keras"
+    )
+    scaler_path = f"/mnt/c/Users/Hunter/Documents/project_folder/app/models/{predictStock}_scaler.gz"
 
-# predictStock = argList[0]
-
-
-def getPrediction(predictStock, yesterday=False):
-    a = os.listdir(path="/mnt/c/Users/Hunter/Documents/lstm_mlops/models")
-    predictStock = predictStock.upper()
-    if f"{predictStock}.keras" in a:
-        print("tis in there")
-        scaler = joblib.load(rf"models/{predictStock}.gz")
-        model = keras.models.load_model(rf"models/{predictStock}.keras")
+    # Load scaler and model
+    if os.path.exists(model_path) and os.path.exists(scaler_path):
+        model = keras.models.load_model(model_path)
+        scaler = joblib.load(scaler_path)
     else:
-        print("tis not")
-        scaler = joblib.load(rf"models/scaler.gz")
-        model = keras.models.load_model(rf"models/model.keras")
+        print("Model or scaler not found.")
+        return None
 
-    # Now to do a specific prediction
-    stock_quote = 0
-    if yesterday == False:
-        stock_quote = pdr.get_data_yahoo(
-            predictStock, start="2024-01-01", end=datetime.now()
-        )
-    else:
-        stock_quote = pdr.get_data_yahoo(
-            predictStock, start="2024-01-01", end=(datetime.now() - timedelta(1))
-        )
+    # Setting the dates for data retrieval
+    if predictDate is None:
+        predictDate = datetime.now().date()  # Default to today if no date is provided
 
-    new_df = stock_quote.filter(["Close"])
-    last_60_days = new_df[-60:].values
-    # Scale the data to be values between 0
+    start_date = predictDate - timedelta(
+        days=120
+    )  # Start date for data to ensure at least 60 valid trading days
+
+    # Fetch the stock data
+    stock_data = pdr.get_data_yahoo(predictStock, start=start_date, end=predictDate)
+    if len(stock_data) < 60:
+        print("Insufficient data to make a prediction.")
+        return None
+
+    # Prepare the last 60 days of data
+    last_60_days = stock_data[["Close"]][-60:].values  # Taking the last 60 days of data
     last_60_days_scaled = scaler.transform(last_60_days)
 
-    # Create an empty list
-    pred_list = []
-    # Append the past 60days
-    pred_list.append(last_60_days_scaled)
+    # Reshape the data for the model
+    X_test = np.reshape(last_60_days_scaled, (1, 60, 1))
 
-    # Convert the pred_list data into numpy array
-    pred_list = np.array(pred_list)
+    # Predicting the price
+    predicted_price = model.predict(X_test)
 
-    # Reshape the data
-    pred_list = np.reshape(pred_list, (pred_list.shape[0], pred_list.shape[1], 1))
-    # Get predicted scaled price
-    pred_price = model.predict(pred_list)
-    # undo the scaling
-    pred_price = scaler.inverse_transform(pred_price)
-    print(f"Price of {predictStock} tomorrow:{pred_price}")
-    return pred_price
+    predicted_price = scaler.inverse_transform(predicted_price)[
+        :, :1
+    ]  # Only inverse scale the 'Close' price and select it
+
+    # Output the predicted price
+    print(
+        f"Predicted close price of {predictStock} for {predictDate + timedelta(days=1)}: {predicted_price[0, 0]}"
+    )
+    return predicted_price[0, 0]
 
 
 if __name__ == "__main__":
-    print(getPrediction("AAPL", True))
-# a = data.tail(1)["Close"]
-# time_match = a.index[0]
-# nextPred = pd.Series(
-#     predictions[-1],
-#     index=[time_match],
-#     name="pred_Close",
-# )
-
-# print(nextPred)
-# todayPred = pd.concat([a, nextPred], axis=1)
-# print("potat2")
-# print((todayPred))
-
-# print(len(predictions))
+    # Example: Predicting for tomorrow or yesterday
+    getPrediction(
+        "TSLA", datetime.now().date() - timedelta(days=1)
+    )  # Predicting yesterday's price
+    getPrediction("TSLA")  # Predicting tomorrow's price by default

@@ -8566,14 +8566,14 @@ stock_list = [
 
 
 def cronModels():
-    trainStartDate = "2024-01-01"
+    trainStartDate = "2012-01-01"
 
     for i in stock_list:
         makeModel(i, trainStartDate)
 
 
 if __name__ == "__main__":
-    trainStartDate = "2024-01-01"
+    trainStartDate = "2023-01-01"
 
     for i in stock_list:
         makeModel(i, trainStartDate)

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/445449580134854585/5f37aa974d34403cb4320eb502e578a0/artifacts
+end_time: 1716445567329
+entry_point_name: ''
+experiment_id: '445449580134854585'
+lifecycle_stage: active
+run_id: 5f37aa974d34403cb4320eb502e578a0
+run_name: omniscient-auk-571
+run_uuid: 5f37aa974d34403cb4320eb502e578a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445554125
+status: 3
+tags: []
+user_id: root

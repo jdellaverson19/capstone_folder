@@ -32,6 +32,7 @@ def add_prediction(conn, prediction):
 
 
 if __name__ == "__main__":
+    cronModels()
     predCon = sqlite3.connect("daily_pred.db")
     cur = predCon.cursor()
     cur.execute(
@@ -42,13 +43,13 @@ if __name__ == "__main__":
         toAdd = []
         toAdd.append(date.today())
         toAdd.append(i)
-        pred = getPrediction(i, True)[0][0]
+        pred = getPrediction(
+            i, datetime.now().date() - timedelta(days=1)
+        )  # Predicting yesterday's price
         toAdd.append(pred)
         tickerData = yf.Ticker(i)
         todayClose = tickerData.history(period="1d")["Close"][0]
         actualValue = todayClose
         toAdd.append(actualValue)
         toAdd.append((actualValue - pred) / actualValue)
-
         prediction_id = add_prediction(predCon, toAdd)
-    cronModels()

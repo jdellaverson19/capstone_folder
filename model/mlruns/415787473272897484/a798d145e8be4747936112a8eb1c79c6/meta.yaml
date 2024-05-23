@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/a798d145e8be4747936112a8eb1c79c6/artifacts
+end_time: 1716443453121
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: a798d145e8be4747936112a8eb1c79c6
+run_name: adorable-sow-724
+run_uuid: a798d145e8be4747936112a8eb1c79c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716443444790
+status: 3
+tags: []
+user_id: root

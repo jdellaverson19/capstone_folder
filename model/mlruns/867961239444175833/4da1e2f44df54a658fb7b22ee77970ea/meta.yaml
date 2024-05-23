@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/867961239444175833/4da1e2f44df54a658fb7b22ee77970ea/artifacts
+end_time: 1716452876493
+entry_point_name: ''
+experiment_id: '867961239444175833'
+lifecycle_stage: active
+run_id: 4da1e2f44df54a658fb7b22ee77970ea
+run_name: unique-moth-587
+run_uuid: 4da1e2f44df54a658fb7b22ee77970ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452870485
+status: 3
+tags: []
+user_id: root

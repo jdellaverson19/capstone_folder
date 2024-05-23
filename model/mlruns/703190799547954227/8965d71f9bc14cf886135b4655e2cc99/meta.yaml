@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/703190799547954227/8965d71f9bc14cf886135b4655e2cc99/artifacts
+end_time: 1716452861051
+entry_point_name: ''
+experiment_id: '703190799547954227'
+lifecycle_stage: active
+run_id: 8965d71f9bc14cf886135b4655e2cc99
+run_name: honorable-worm-864
+run_uuid: 8965d71f9bc14cf886135b4655e2cc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452854223
+status: 3
+tags: []
+user_id: root

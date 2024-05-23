@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/445449580134854585/786cd4e6fada49388c34bc21d03b109c/artifacts
+end_time: 1716459665493
+entry_point_name: ''
+experiment_id: '445449580134854585'
+lifecycle_stage: active
+run_id: 786cd4e6fada49388c34bc21d03b109c
+run_name: mysterious-panda-702
+run_uuid: 786cd4e6fada49388c34bc21d03b109c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459596708
+status: 3
+tags: []
+user_id: root

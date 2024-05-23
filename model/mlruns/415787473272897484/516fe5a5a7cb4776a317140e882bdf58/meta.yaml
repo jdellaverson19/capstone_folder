@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/516fe5a5a7cb4776a317140e882bdf58/artifacts
+end_time: 1716453190311
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 516fe5a5a7cb4776a317140e882bdf58
+run_name: gentle-steed-260
+run_uuid: 516fe5a5a7cb4776a317140e882bdf58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716453181061
+status: 3
+tags: []
+user_id: root

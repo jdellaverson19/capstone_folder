@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/16329722482c4af5927dd56ab7654e34/artifacts
+end_time: 1716452852372
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 16329722482c4af5927dd56ab7654e34
+run_name: dapper-donkey-796
+run_uuid: 16329722482c4af5927dd56ab7654e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452845452
+status: 3
+tags: []
+user_id: root

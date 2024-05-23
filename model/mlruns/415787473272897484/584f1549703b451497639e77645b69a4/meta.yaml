@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/584f1549703b451497639e77645b69a4/artifacts
+end_time: 1716458496107
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 584f1549703b451497639e77645b69a4
+run_name: unleashed-cub-997
+run_uuid: 584f1549703b451497639e77645b69a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458307688
+status: 3
+tags: []
+user_id: root

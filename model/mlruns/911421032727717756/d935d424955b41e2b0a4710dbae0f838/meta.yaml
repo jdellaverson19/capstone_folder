@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/d935d424955b41e2b0a4710dbae0f838/artifacts
+end_time: 1716446844449
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: d935d424955b41e2b0a4710dbae0f838
+run_name: bustling-squid-300
+run_uuid: d935d424955b41e2b0a4710dbae0f838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716446809163
+status: 3
+tags: []
+user_id: root

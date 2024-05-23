@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/322328413205727473/5dcbdf7c4f784945a984e0ea91d0fc1b/artifacts
+end_time: 1716458983715
+entry_point_name: ''
+experiment_id: '322328413205727473'
+lifecycle_stage: active
+run_id: 5dcbdf7c4f784945a984e0ea91d0fc1b
+run_name: persistent-hound-976
+run_uuid: 5dcbdf7c4f784945a984e0ea91d0fc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458916460
+status: 3
+tags: []
+user_id: root

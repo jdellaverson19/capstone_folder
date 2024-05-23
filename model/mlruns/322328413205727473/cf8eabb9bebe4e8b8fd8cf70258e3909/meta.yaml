@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/322328413205727473/cf8eabb9bebe4e8b8fd8cf70258e3909/artifacts
+end_time: 1716445411138
+entry_point_name: ''
+experiment_id: '322328413205727473'
+lifecycle_stage: active
+run_id: cf8eabb9bebe4e8b8fd8cf70258e3909
+run_name: brawny-robin-654
+run_uuid: cf8eabb9bebe4e8b8fd8cf70258e3909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445398226
+status: 3
+tags: []
+user_id: root

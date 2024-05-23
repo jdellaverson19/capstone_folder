@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/625366993015605068/b3748f9454134b488efa17b9720434ae/artifacts
+end_time: 1716454392946
+entry_point_name: ''
+experiment_id: '625366993015605068'
+lifecycle_stage: active
+run_id: b3748f9454134b488efa17b9720434ae
+run_name: useful-fowl-28
+run_uuid: b3748f9454134b488efa17b9720434ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716454333693
+status: 3
+tags: []
+user_id: root

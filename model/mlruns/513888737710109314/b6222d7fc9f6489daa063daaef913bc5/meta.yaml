@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/513888737710109314/b6222d7fc9f6489daa063daaef913bc5/artifacts
+end_time: 1716445495537
+entry_point_name: ''
+experiment_id: '513888737710109314'
+lifecycle_stage: active
+run_id: b6222d7fc9f6489daa063daaef913bc5
+run_name: beautiful-donkey-209
+run_uuid: b6222d7fc9f6489daa063daaef913bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445482231
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/625366993015605068/af29365a98c2434e857f532bcd123a28/artifacts
+end_time: 1716459594264
+entry_point_name: ''
+experiment_id: '625366993015605068'
+lifecycle_stage: active
+run_id: af29365a98c2434e857f532bcd123a28
+run_name: flawless-steed-784
+run_uuid: af29365a98c2434e857f532bcd123a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459525165
+status: 3
+tags: []
+user_id: root

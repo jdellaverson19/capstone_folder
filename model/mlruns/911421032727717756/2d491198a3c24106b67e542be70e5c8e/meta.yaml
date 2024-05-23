@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/2d491198a3c24106b67e542be70e5c8e/artifacts
+end_time: 1716452730833
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 2d491198a3c24106b67e542be70e5c8e
+run_name: rare-bear-97
+run_uuid: 2d491198a3c24106b67e542be70e5c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452701327
+status: 3
+tags: []
+user_id: root

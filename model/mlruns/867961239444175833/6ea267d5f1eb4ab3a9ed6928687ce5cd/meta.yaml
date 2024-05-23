@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/867961239444175833/6ea267d5f1eb4ab3a9ed6928687ce5cd/artifacts
+end_time: 1716445509814
+entry_point_name: ''
+experiment_id: '867961239444175833'
+lifecycle_stage: active
+run_id: 6ea267d5f1eb4ab3a9ed6928687ce5cd
+run_name: upbeat-bear-963
+run_uuid: 6ea267d5f1eb4ab3a9ed6928687ce5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445496447
+status: 3
+tags: []
+user_id: root

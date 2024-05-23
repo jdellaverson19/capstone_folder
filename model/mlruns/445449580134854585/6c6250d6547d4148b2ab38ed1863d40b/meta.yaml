@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/445449580134854585/6c6250d6547d4148b2ab38ed1863d40b/artifacts
+end_time: 1716452907861
+entry_point_name: ''
+experiment_id: '445449580134854585'
+lifecycle_stage: active
+run_id: 6c6250d6547d4148b2ab38ed1863d40b
+run_name: hilarious-ram-845
+run_uuid: 6c6250d6547d4148b2ab38ed1863d40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452902140
+status: 3
+tags: []
+user_id: root

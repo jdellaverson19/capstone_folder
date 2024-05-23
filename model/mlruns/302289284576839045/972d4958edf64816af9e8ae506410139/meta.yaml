@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/302289284576839045/972d4958edf64816af9e8ae506410139/artifacts
+end_time: 1716459522470
+entry_point_name: ''
+experiment_id: '302289284576839045'
+lifecycle_stage: active
+run_id: 972d4958edf64816af9e8ae506410139
+run_name: mercurial-dove-367
+run_uuid: 972d4958edf64816af9e8ae506410139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459454140
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/971743390625958275/a1f3790cebd346a582cc042b3ff79891/artifacts
+end_time: 1716457095961
+entry_point_name: ''
+experiment_id: '971743390625958275'
+lifecycle_stage: active
+run_id: a1f3790cebd346a582cc042b3ff79891
+run_name: dashing-snake-341
+run_uuid: a1f3790cebd346a582cc042b3ff79891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716456996797
+status: 3
+tags: []
+user_id: root

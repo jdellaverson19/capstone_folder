@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/4158cd39f76141f68d5f932780cc0c4a/artifacts
+end_time: 1716458196661
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 4158cd39f76141f68d5f932780cc0c4a
+run_name: honorable-wolf-108
+run_uuid: 4158cd39f76141f68d5f932780cc0c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458161322
+status: 4
+tags: []
+user_id: root

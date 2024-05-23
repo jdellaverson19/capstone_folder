@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/ba71a06db45b48f78aef5ae51b2a741a/artifacts
+end_time: 1716453359182
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: ba71a06db45b48f78aef5ae51b2a741a
+run_name: capricious-shrimp-14
+run_uuid: ba71a06db45b48f78aef5ae51b2a741a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716453311504
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/3756a7e536644458ad86e8335b014a48/artifacts
+end_time: 1716458662572
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 3756a7e536644458ad86e8335b014a48
+run_name: gregarious-snipe-181
+run_uuid: 3756a7e536644458ad86e8335b014a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458627656
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/4b7c3fbbcf8b4710a6bb55e8cfb851d0/artifacts
+end_time: 1716447041398
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 4b7c3fbbcf8b4710a6bb55e8cfb851d0
+run_name: treasured-moose-347
+run_uuid: 4b7c3fbbcf8b4710a6bb55e8cfb851d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716447028835
+status: 3
+tags: []
+user_id: root

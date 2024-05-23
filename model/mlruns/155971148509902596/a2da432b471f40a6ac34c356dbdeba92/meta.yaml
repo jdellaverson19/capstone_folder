@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/155971148509902596/a2da432b471f40a6ac34c356dbdeba92/artifacts
+end_time: 1716456995205
+entry_point_name: ''
+experiment_id: '155971148509902596'
+lifecycle_stage: active
+run_id: a2da432b471f40a6ac34c356dbdeba92
+run_name: angry-asp-923
+run_uuid: a2da432b471f40a6ac34c356dbdeba92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716456884264
+status: 3
+tags: []
+user_id: root

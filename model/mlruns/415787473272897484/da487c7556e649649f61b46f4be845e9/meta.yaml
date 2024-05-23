@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/da487c7556e649649f61b46f4be845e9/artifacts
+end_time: 1716428036717
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: da487c7556e649649f61b46f4be845e9
+run_name: serious-calf-381
+run_uuid: da487c7556e649649f61b46f4be845e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716428032350
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/172c8883742a49d797e4992180deaaa0/artifacts
+end_time: 1716453081024
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 172c8883742a49d797e4992180deaaa0
+run_name: skittish-bee-700
+run_uuid: 172c8883742a49d797e4992180deaaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716453047872
+status: 3
+tags: []
+user_id: root

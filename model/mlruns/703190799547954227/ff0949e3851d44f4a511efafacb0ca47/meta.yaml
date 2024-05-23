@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/703190799547954227/ff0949e3851d44f4a511efafacb0ca47/artifacts
+end_time: 1716457298818
+entry_point_name: ''
+experiment_id: '703190799547954227'
+lifecycle_stage: active
+run_id: ff0949e3851d44f4a511efafacb0ca47
+run_name: rogue-ant-31
+run_uuid: ff0949e3851d44f4a511efafacb0ca47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457199155
+status: 3
+tags: []
+user_id: root

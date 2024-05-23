@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/625366993015605068/3bc351611ecf434397b4f5b9e6aae3c1/artifacts
+end_time: 1716445553124
+entry_point_name: ''
+experiment_id: '625366993015605068'
+lifecycle_stage: active
+run_id: 3bc351611ecf434397b4f5b9e6aae3c1
+run_name: whimsical-asp-997
+run_uuid: 3bc351611ecf434397b4f5b9e6aae3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445539690
+status: 3
+tags: []
+user_id: root

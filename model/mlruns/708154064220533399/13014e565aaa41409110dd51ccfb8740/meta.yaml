@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/708154064220533399/13014e565aaa41409110dd51ccfb8740/artifacts
+end_time: 1716459451739
+entry_point_name: ''
+experiment_id: '708154064220533399'
+lifecycle_stage: active
+run_id: 13014e565aaa41409110dd51ccfb8740
+run_name: loud-chimp-861
+run_uuid: 13014e565aaa41409110dd51ccfb8740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459383038
+status: 3
+tags: []
+user_id: root

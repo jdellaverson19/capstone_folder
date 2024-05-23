@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/703190799547954227/19eabda5f3084ce1a3c01e496b9bf398/artifacts
+end_time: 1716459314716
+entry_point_name: ''
+experiment_id: '703190799547954227'
+lifecycle_stage: active
+run_id: 19eabda5f3084ce1a3c01e496b9bf398
+run_name: gifted-shark-179
+run_uuid: 19eabda5f3084ce1a3c01e496b9bf398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459247707
+status: 3
+tags: []
+user_id: root

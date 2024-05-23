@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/867961239444175833/b6259e6721d94a6cacc5ca650a7a53a0/artifacts
+end_time: 1716459381430
+entry_point_name: ''
+experiment_id: '867961239444175833'
+lifecycle_stage: active
+run_id: b6259e6721d94a6cacc5ca650a7a53a0
+run_name: useful-shark-270
+run_uuid: b6259e6721d94a6cacc5ca650a7a53a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459351739
+status: 3
+tags: []
+user_id: root

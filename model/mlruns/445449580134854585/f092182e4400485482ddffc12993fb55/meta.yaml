@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/445449580134854585/f092182e4400485482ddffc12993fb55/artifacts
+end_time: 1716457907458
+entry_point_name: ''
+experiment_id: '445449580134854585'
+lifecycle_stage: active
+run_id: f092182e4400485482ddffc12993fb55
+run_name: grandiose-owl-228
+run_uuid: f092182e4400485482ddffc12993fb55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457807746
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/708154064220533399/7c37ddfb47ba43f78d52c6d9a76f4f1d/artifacts
+end_time: 1716452884260
+entry_point_name: ''
+experiment_id: '708154064220533399'
+lifecycle_stage: active
+run_id: 7c37ddfb47ba43f78d52c6d9a76f4f1d
+run_name: inquisitive-ox-414
+run_uuid: 7c37ddfb47ba43f78d52c6d9a76f4f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452878291
+status: 3
+tags: []
+user_id: root

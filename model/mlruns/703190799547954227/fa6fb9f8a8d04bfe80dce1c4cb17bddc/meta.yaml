@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/703190799547954227/fa6fb9f8a8d04bfe80dce1c4cb17bddc/artifacts
+end_time: 1716445481439
+entry_point_name: ''
+experiment_id: '703190799547954227'
+lifecycle_stage: active
+run_id: fa6fb9f8a8d04bfe80dce1c4cb17bddc
+run_name: mysterious-roo-917
+run_uuid: fa6fb9f8a8d04bfe80dce1c4cb17bddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445468399
+status: 3
+tags: []
+user_id: root

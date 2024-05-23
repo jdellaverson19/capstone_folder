@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/5f62d32f2bfb41e1bbba77d4a792b00a/artifacts
+end_time: 1716456667913
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 5f62d32f2bfb41e1bbba77d4a792b00a
+run_name: languid-eel-810
+run_uuid: 5f62d32f2bfb41e1bbba77d4a792b00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716456564306
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/625366993015605068/bef4e789439c4ccf89d48c1ad0133e3f/artifacts
+end_time: 1716457806172
+entry_point_name: ''
+experiment_id: '625366993015605068'
+lifecycle_stage: active
+run_id: bef4e789439c4ccf89d48c1ad0133e3f
+run_name: unequaled-snipe-905
+run_uuid: bef4e789439c4ccf89d48c1ad0133e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457706544
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/61f0aeb53ab547dc8c5e6f4df8e8cc59/artifacts
+end_time: 1716447154931
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 61f0aeb53ab547dc8c5e6f4df8e8cc59
+run_name: enthused-eel-419
+run_uuid: 61f0aeb53ab547dc8c5e6f4df8e8cc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716447119607
+status: 3
+tags: []
+user_id: root

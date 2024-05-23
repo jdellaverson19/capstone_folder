@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/971743390625958275/99eb0fbad488470b806a0fbd26cceee1/artifacts
+end_time: 1716445453192
+entry_point_name: ''
+experiment_id: '971743390625958275'
+lifecycle_stage: active
+run_id: 99eb0fbad488470b806a0fbd26cceee1
+run_name: unique-fox-523
+run_uuid: 99eb0fbad488470b806a0fbd26cceee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445439867
+status: 3
+tags: []
+user_id: root

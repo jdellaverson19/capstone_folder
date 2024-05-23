@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/971743390625958275/3a050076a2584e9ea9edcc251eec236a/artifacts
+end_time: 1716459163889
+entry_point_name: ''
+experiment_id: '971743390625958275'
+lifecycle_stage: active
+run_id: 3a050076a2584e9ea9edcc251eec236a
+run_name: kindly-horse-254
+run_uuid: 3a050076a2584e9ea9edcc251eec236a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716459092182
+status: 3
+tags: []
+user_id: root

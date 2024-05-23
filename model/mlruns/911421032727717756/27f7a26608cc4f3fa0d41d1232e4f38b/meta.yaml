@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/27f7a26608cc4f3fa0d41d1232e4f38b/artifacts
+end_time: 1716447375760
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 27f7a26608cc4f3fa0d41d1232e4f38b
+run_name: wise-turtle-747
+run_uuid: 27f7a26608cc4f3fa0d41d1232e4f38b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716447342861
+status: 3
+tags: []
+user_id: root

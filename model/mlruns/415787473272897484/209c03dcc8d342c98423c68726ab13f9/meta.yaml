@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/209c03dcc8d342c98423c68726ab13f9/artifacts
+end_time: 1716443756523
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 209c03dcc8d342c98423c68726ab13f9
+run_name: serious-pug-190
+run_uuid: 209c03dcc8d342c98423c68726ab13f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716443716994
+status: 3
+tags: []
+user_id: root

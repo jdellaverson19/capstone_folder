@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/3c14b4b4cad24e1391fa5a8ea561159d/artifacts
+end_time: 1716457197623
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 3c14b4b4cad24e1391fa5a8ea561159d
+run_name: delicate-cub-765
+run_uuid: 3c14b4b4cad24e1391fa5a8ea561159d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457097665
+status: 3
+tags: []
+user_id: root

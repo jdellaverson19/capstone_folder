@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/b2e222236f284f608ce26c1fccae7d82/artifacts
+end_time: 1716452813388
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: b2e222236f284f608ce26c1fccae7d82
+run_name: bemused-trout-984
+run_uuid: b2e222236f284f608ce26c1fccae7d82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452807642
+status: 3
+tags: []
+user_id: root

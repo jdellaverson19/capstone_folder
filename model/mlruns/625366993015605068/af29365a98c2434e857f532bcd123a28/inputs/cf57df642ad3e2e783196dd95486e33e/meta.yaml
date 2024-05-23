@@ -1,0 +1,6 @@
+destination_id: 69c1f5ae7ad28e65c53dd8e27a760cba
+destination_type: RUN
+source_id: 69c1f5ae7ad28e65c53dd8e27a760cba
+source_type: DATASET
+tags:
+  mlflow.data.context: train

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/b81c3136e051479bb0053ff24d5a7194/artifacts
+end_time: 1716455948228
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: b81c3136e051479bb0053ff24d5a7194
+run_name: smiling-squirrel-389
+run_uuid: b81c3136e051479bb0053ff24d5a7194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716455343784
+status: 3
+tags: []
+user_id: root

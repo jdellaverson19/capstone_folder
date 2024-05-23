@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/fafb6331fa8b4122823543ce4f64e061/artifacts
+end_time: 1716458913801
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: fafb6331fa8b4122823543ce4f64e061
+run_name: valuable-kit-345
+run_uuid: fafb6331fa8b4122823543ce4f64e061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458839450
+status: 3
+tags: []
+user_id: root

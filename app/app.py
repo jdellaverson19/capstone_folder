@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import json
-from package import lstm_preds  # Assuming this file contains your prediction logic
+from package import lstm_preds
+import yfinance as yf
 
 app = Flask(__name__)
 
@@ -13,13 +14,14 @@ def index():
 @app.route("/data", methods=["POST"])
 def data():
     search = request.form["search"].upper()  # Ensure stock symbol is in upper case
-    predictions = lstm_preds.getPrediction(search)  # Now returns the image filename
-    print(predictions[0][0])
+    predictions = lstm_preds.getPrediction(search)
+    print(predictions)
     return render_template(
         "predPage.html",
-        pred=(predictions[0][0]),
+        pred=round(predictions, 2),
         image_path=f"static/{search}.png",
         stock_name=search,
+        today_close=round(yf.Ticker(search).history(period="1d")["Close"][0], 2),
     )
 
 

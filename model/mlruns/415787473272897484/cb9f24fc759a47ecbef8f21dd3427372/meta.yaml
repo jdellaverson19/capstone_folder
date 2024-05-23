@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/cb9f24fc759a47ecbef8f21dd3427372/artifacts
+end_time: 1716453255590
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: cb9f24fc759a47ecbef8f21dd3427372
+run_name: enchanting-jay-977
+run_uuid: cb9f24fc759a47ecbef8f21dd3427372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716453245962
+status: 3
+tags: []
+user_id: root

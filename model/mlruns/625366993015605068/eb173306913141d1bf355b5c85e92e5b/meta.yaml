@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/625366993015605068/eb173306913141d1bf355b5c85e92e5b/artifacts
+end_time: 1716454242514
+entry_point_name: ''
+experiment_id: '625366993015605068'
+lifecycle_stage: active
+run_id: eb173306913141d1bf355b5c85e92e5b
+run_name: resilient-shad-358
+run_uuid: eb173306913141d1bf355b5c85e92e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716454171478
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/302289284576839045/ee57cb87aad144738bc7ccd0e4327a74/artifacts
+end_time: 1716445538717
+entry_point_name: ''
+experiment_id: '302289284576839045'
+lifecycle_stage: active
+run_id: ee57cb87aad144738bc7ccd0e4327a74
+run_name: bemused-rook-518
+run_uuid: ee57cb87aad144738bc7ccd0e4327a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445525353
+status: 3
+tags: []
+user_id: root

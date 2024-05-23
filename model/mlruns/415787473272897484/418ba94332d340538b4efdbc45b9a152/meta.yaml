@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/415787473272897484/418ba94332d340538b4efdbc45b9a152/artifacts
+end_time: 1716454901211
+entry_point_name: ''
+experiment_id: '415787473272897484'
+lifecycle_stage: active
+run_id: 418ba94332d340538b4efdbc45b9a152
+run_name: sassy-goat-581
+run_uuid: 418ba94332d340538b4efdbc45b9a152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716454852288
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/513888737710109314/ff6afa83478e4c208d870b7f1654b703/artifacts
+end_time: 1716452868819
+entry_point_name: ''
+experiment_id: '513888737710109314'
+lifecycle_stage: active
+run_id: ff6afa83478e4c208d870b7f1654b703
+run_name: debonair-shrimp-907
+run_uuid: ff6afa83478e4c208d870b7f1654b703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716452862806
+status: 3
+tags: []
+user_id: root

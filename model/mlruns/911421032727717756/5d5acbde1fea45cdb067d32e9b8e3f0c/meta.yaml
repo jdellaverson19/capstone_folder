@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/911421032727717756/5d5acbde1fea45cdb067d32e9b8e3f0c/artifacts
+end_time: 1716458786632
+entry_point_name: ''
+experiment_id: '911421032727717756'
+lifecycle_stage: active
+run_id: 5d5acbde1fea45cdb067d32e9b8e3f0c
+run_name: chill-shark-225
+run_uuid: 5d5acbde1fea45cdb067d32e9b8e3f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716458769007
+status: 4
+tags: []
+user_id: root

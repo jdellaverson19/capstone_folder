@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/302289284576839045/9a3ada9ce2854f5eabd2a63571d4fba5/artifacts
+end_time: 1716457704972
+entry_point_name: ''
+experiment_id: '302289284576839045'
+lifecycle_stage: active
+run_id: 9a3ada9ce2854f5eabd2a63571d4fba5
+run_name: legendary-crane-836
+run_uuid: 9a3ada9ce2854f5eabd2a63571d4fba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457605082
+status: 3
+tags: []
+user_id: root

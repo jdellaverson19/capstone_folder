@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/708154064220533399/6fbc58c9717e4193b5baa7a966d168da/artifacts
+end_time: 1716457603506
+entry_point_name: ''
+experiment_id: '708154064220533399'
+lifecycle_stage: active
+run_id: 6fbc58c9717e4193b5baa7a966d168da
+run_name: dapper-newt-121
+run_uuid: 6fbc58c9717e4193b5baa7a966d168da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716457503678
+status: 3
+tags: []
+user_id: root

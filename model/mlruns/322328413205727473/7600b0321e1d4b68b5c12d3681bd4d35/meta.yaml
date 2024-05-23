@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Hunter/Documents/project_folder/model/mlruns/322328413205727473/7600b0321e1d4b68b5c12d3681bd4d35/artifacts
+end_time: 1716456767867
+entry_point_name: ''
+experiment_id: '322328413205727473'
+lifecycle_stage: active
+run_id: 7600b0321e1d4b68b5c12d3681bd4d35
+run_name: indecisive-doe-469
+run_uuid: 7600b0321e1d4b68b5c12d3681bd4d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716456669620
+status: 3
+tags: []
+user_id: root
