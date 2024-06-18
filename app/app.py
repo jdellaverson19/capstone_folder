@@ -6,6 +6,11 @@ import yfinance as yf
 app = Flask(__name__)
 
 
+def is_valid_ticker(ticker):
+    """Check if the ticker is valid: only uppercase letters and 1-5 characters long."""
+    return ticker.isalpha() and ticker.isupper() and 1 <= len(ticker) <= 5
+
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -13,7 +18,11 @@ def index():
 
 @app.route("/data", methods=["POST"])
 def data():
-    search = request.form["search"].upper()  # Ensure stock symbol is in upper case
+    search = request.form["search"].upper()  # Convert input to uppercase
+    # Validate the stock ticker
+    if not is_valid_ticker(search):
+        return jsonify({"error": "Invalid stock ticker format"}), 400
+
     predictions = lstm_preds.getPrediction(search)
     print(predictions)
     return render_template(
